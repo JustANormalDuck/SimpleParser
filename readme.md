@@ -1,6 +1,6 @@
 A simple parser built for my college class.
 It's made around the following language:
-A -> I = E
+A -> I = E \n
 E -> P O P | P
 O -> + | - | * | / | **
 P -> I | L | UI | UL | (E)
